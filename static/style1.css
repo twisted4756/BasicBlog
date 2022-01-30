@@ -1,0 +1,125 @@
+.navbar-nav{
+    margin-left: 85%;
+}
+
+.name{
+    text-align: center;
+    height: 500px;
+    padding: 10%;
+
+}
+body{
+    font-family: 'Red Hat Mono', monospace;
+    text-align: center;
+}
+#title{
+    color: aliceblue;
+    top: 30px;
+}
+.footer{
+    padding: 1%;
+}
+.fab{
+    margin: 2%;
+}
+.copy{
+    font-size: 10px;
+    color: aliceblue;
+}
+.content{
+    padding: 4%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+
+form { max-width:420px; margin:50px auto; }
+
+.feedback-input {
+  color:black;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight:500;
+  font-size: 18px;
+  border-radius: 5px;
+  line-height: 22px;
+  background-color: transparent;
+  border:2px solid black;
+  transition: all 0.3s;
+  padding: 13px;
+  margin-bottom: 15px;
+  width:100%;
+  box-sizing: border-box;
+  outline:0;
+}
+
+.feedback-input:focus { border:2px solid black; }
+
+.textarea {
+  height: 150px;
+  line-height: 150%;
+  resize:vertical;
+}
+
+[type="submit"] {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  width: 100%;
+  background: black;
+  border-radius:5px;
+  border:0;
+  cursor:pointer;
+  color:white;
+  font-size:24px;
+  padding-top:10px;
+  padding-bottom:10px;
+  transition: all 0.3s;
+  margin-top:-4px;
+  font-weight:700;
+}
+[type="submit"]:hover { background:gray; }
+
+.contact{
+    padding: 3%;
+    margin: 100px;
+
+
+}
+ul {
+  display: table;
+  margin: 0 auto;
+    text-align: left;
+}
+.about{
+    margin: 40px;
+    padding: 3%;
+}
+.skills{
+    margin: 40px;
+    padding: 3%;
+
+
+}
+.cur{
+    margin: 40px;
+    margin-top: 10px;
+}
+
+.post{
+    text-align: left;
+    width: 35%;
+    padding: 4%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.post1{
+    text-align: left;
+    width: 45%;
+    padding: 4%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
